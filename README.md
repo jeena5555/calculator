@@ -21,7 +21,7 @@ You can watch the demo of the calculator in action by clicking the link below:
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup
 
 To run the project locally, follow the steps below:
 
